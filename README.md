@@ -360,7 +360,7 @@ Danh sách ảnh :
 
 | STT | Màn hình | File minh họa |
 | --- | --- | --- |
-| 1 | Trang chủ | `![Trang chủ website](docs/images/trang-chu.png)` |
+| 1 | Trang chủ | `docs/images/trang-chu.png` |
 | 2 | Danh sách sản phẩm | `docs/images/san-pham.png` |
 | 3 | Chi tiết sản phẩm | `docs/images/chi-tiet-san-pham.png` |
 | 4 | Giỏ hàng | `docs/images/gio-hang.png` |

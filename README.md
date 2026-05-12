@@ -22,6 +22,7 @@ Muc tieu cua he thong:
 ## 3. Danh sach thanh vien
 
 | STT | Ho va ten | MSSV | Vai tro |
+| --- | --- | --- | --- |
 | 1 | Lại Nam sơn | 23810310088 | Nhóm trưởng |
 | 2 | Nguyễn thành vinh | 23810310107 | thành viên |
 | 3 | Nguyễn Văn Phương | 23810310101 | thành viên |

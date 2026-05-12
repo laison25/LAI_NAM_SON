@@ -21,13 +21,11 @@ Muc tieu cua he thong:
 
 ## 3. Danh sach thanh vien
 
-| STT | Ho va ten | MSSV | Vai tro |
+| STT | Họ và tên | MSSV | Vai trò |
 | --- | --- | --- | --- |
-| 1 | Lại Nam sơn | 23810310088 | Nhóm trưởng |
-| 2 | Nguyễn thành vinh | 23810310107 | thành viên |
-| 3 | Nguyễn Văn Phương | 23810310101 | thành viên |
-
-
+| 1 | Lại Nam Sơn | 23810310088 | Nhóm trưởng |
+| 2 | Nguyễn Thành Vinh | 23810310107 | Thành viên |
+| 3 | Nguyễn Văn Phương | 23810310101 | Thành viên |
 
 ## 4. Phan cong nhiem vu cu the
 

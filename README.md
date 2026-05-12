@@ -370,24 +370,15 @@ Danh sách ảnh :
 | 8 | VNPay sandbox | `docs/images/vnpay-sandbox.png` |
 | 9 | QR Demo | `docs/images/qr-demo.png` |
 
-Chèn ảnh minh họa trong README theo mẫu:
-
-```md
-![Trang chủ](docs/images/trang-chu.png)
-![Giỏ hàng](docs/images/gio-hang.png)
-![Thanh toán](docs/images/thanh-toan.png)
-```
 
 ## 13. Link video demo
 
-```text
-Điền link video demo tại đây
+```text gg drive
+https://drive.google.com/file/d/1raN5D5AR5FcjEM_bicmWHaALhOLy7TOV/view?usp=sharing
 ```
 
-Ví dụ:
-
-```text
-https://youtu.be/your-video-demo
+```text youtube
+https://www.youtube.com/watch?v=atUTlC01_Tc
 ```
 
 ## 14. Link online đã deploy
@@ -404,23 +395,7 @@ Trang quản trị hosting:
 http://laison.fwh.is/wp-admin/
 ```
 
-## 15. Hướng dẫn deploy hosting
-
-### 15.1. Upload source
-
-Upload source WordPress lên thư mục gốc hosting:
-
-```text
-htdocs/
-```
-
-Không upload thừa một lớp thư mục. Cấu trúc đúng:
-
-```text
-htdocs/wp-admin
-htdocs/wp-content
-htdocs/wp-includes
-```
+## 15.  deploy hosting
 
 ### 15.2. Upload plugin tự viết
 

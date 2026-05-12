@@ -1,25 +1,25 @@
-# Shop Lzon - Website ban mo hinh suu tam
+# Shop Lzon - Website bán mô hình sưu tầm
 
-## 1. Ten de tai
+## 1. Tên đề tài
 
-**Xay dung website ban mo hinh suu tam Shop Lzon bang WordPress va WooCommerce**
+**Xây dựng website bán mô hình sưu tầm Shop Lzon bằng WordPress và WooCommerce**
 
-## 2. Gioi thieu website/he thong
+## 2. Giới thiệu website/hệ thống
 
-Shop Lzon la website thuong mai dien tu phuc vu viec ban cac san pham mo hinh suu tam nhu anime figure, Pokemon, One Piece, resin va mini figure.
+Shop Lzon là website thương mại điện tử phục vụ việc bán các sản phẩm mô hình sưu tầm như anime figure, Pokemon, One Piece, resin và mini figure.
 
-Website duoc xay dung dua tren nen tang ma nguon mo WordPress, ket hop WooCommerce de quan ly san pham, gio hang, thanh toan va don hang. Ngoai cac chuc nang co san cua WooCommerce, du an co them plugin tu lap trinh rieng de nhap/xuat san pham bang file Excel-compatible, thanh toan VNPay sandbox va QR Demo.
+Website được xây dựng dựa trên nền tảng mã nguồn mở WordPress, kết hợp WooCommerce để quản lý sản phẩm, giỏ hàng, thanh toán và đơn hàng. Ngoài các chức năng có sẵn của WooCommerce, dự án có thêm plugin tự lập trình riêng để nhập/xuất sản phẩm bằng file Excel-compatible, thanh toán VNPay sandbox và QR Demo.
 
-Muc tieu cua he thong:
+Mục tiêu của hệ thống:
 
-- Gioi thieu va ban san pham mo hinh suu tam.
-- Cho phep khach hang xem san pham, them vao gio hang va dat hang.
-- Ho tro dang ky, dang nhap tai khoan khach hang.
-- Ho tro quan tri vien quan ly san pham, don hang va du lieu san pham.
-- Bo sung chuc nang nhap/xuat file phuc vu quan ly san pham.
-- Mo phong quy trinh thanh toan online bang VNPay sandbox va QR Demo.
+- Giới thiệu và bán sản phẩm mô hình sưu tầm.
+- Cho phép khách hàng xem sản phẩm, thêm vào giỏ hàng và đặt hàng.
+- Hỗ trợ đăng ký, đăng nhập tài khoản khách hàng.
+- Hỗ trợ quản trị viên quản lý sản phẩm, đơn hàng và dữ liệu sản phẩm.
+- Bổ sung chức năng nhập/xuất file phục vụ quản lý sản phẩm.
+- Mô phỏng quy trình thanh toán online bằng VNPay sandbox và QR Demo.
 
-## 3. Danh sach thanh vien
+## 3. Danh sách thành viên
 
 | STT | Họ và tên | MSSV | Vai trò |
 | --- | --- | --- | --- |
@@ -27,15 +27,15 @@ Muc tieu cua he thong:
 | 2 | Nguyễn Thành Vinh | 23810310107 | Thành viên |
 | 3 | Nguyễn Văn Phương | 23810310101 | Thành viên |
 
-## 4. Phan cong nhiem vu cu the
+## 4. Phân công nhiệm vụ cụ thể
 
-| Thanh vien | Nhiem vu |
+| Thành viên | Nhiệm vụ |
 | --- | --- |
-| Lại Nam Sơn | Cai dat WordPress, cau hinh WooCommerce, thiet ke giao dien, tuy bien theme, xay dung plugin Lzon Project Tools, cau hinh VNPay sandbox, QR Demo, nhap/xuat Excel-compatible, deploy hosting, viet bao cao | 
-| Nguyễn thành vinh |Chuẩn bị dữ liệu sản phẩm, hỗ trợ tạo danh mục sản phẩm, kiểm tra giao diện người dùng và chụp ảnh minh họa các chức năng chính |
-| Nguyễn Văn Phương |Hỗ trợ cấu hình WooCommerce, kiểm tra giỏ hàng, thanh toán, đơn hàng và hỗ trợ hoàn thiện báo cáo, README.|
+| Lại Nam Sơn | Cài đặt WordPress, cấu hình WooCommerce, thiết kế giao diện, tùy biến theme, xây dựng plugin Lzon Project Tools, cấu hình VNPay sandbox, QR Demo, nhập/xuất Excel-compatible, deploy hosting và viết báo cáo. |
+| Nguyễn Thành Vinh | Chuẩn bị dữ liệu sản phẩm, hỗ trợ tạo danh mục sản phẩm, kiểm tra giao diện người dùng và chụp ảnh minh họa các chức năng chính. |
+| Nguyễn Văn Phương | Hỗ trợ cấu hình WooCommerce, kiểm tra giỏ hàng, thanh toán, đơn hàng và hỗ trợ hoàn thiện báo cáo, README. |
 
-## 5. Cong nghe su dung
+## 5. Công nghệ sử dụng
 
 - WordPress
 - WooCommerce
@@ -46,61 +46,61 @@ Muc tieu cua he thong:
 - Classic Editor
 - Theme StoreCommerce
 - Child theme Storekeeper
-- Plugin tuy bien Lzon Project Tools
+- Plugin tùy biến Lzon Project Tools
 - XAMPP
 - phpMyAdmin
 - Hosting InfinityFree
 
-## 6. Chuc nang chinh cua he thong
+## 6. Chức năng chính của hệ thống
 
-### 6.1. Chuc nang nguoi dung
+### 6.1. Chức năng người dùng
 
-- Xem trang chu website.
-- Xem danh sach san pham.
-- Xem san pham theo danh muc.
-- Xem chi tiet san pham.
-- Them san pham vao gio hang.
-- Cap nhat so luong san pham trong gio hang.
-- Xoa san pham khoi gio hang.
-- Dat hang tai trang thanh toan.
-- Dang ky tai khoan.
-- Dang nhap tai khoan.
-- Xem thong tin don hang sau khi dat.
+- Xem trang chủ website.
+- Xem danh sách sản phẩm.
+- Xem sản phẩm theo danh mục.
+- Xem chi tiết sản phẩm.
+- Thêm sản phẩm vào giỏ hàng.
+- Cập nhật số lượng sản phẩm trong giỏ hàng.
+- Xóa sản phẩm khỏi giỏ hàng.
+- Đặt hàng tại trang thanh toán.
+- Đăng ký tài khoản.
+- Đăng nhập tài khoản.
+- Xem thông tin đơn hàng sau khi đặt.
 
-### 6.2. Chuc nang quan tri
+### 6.2. Chức năng quản trị
 
-- Quan ly san pham WooCommerce.
-- Quan ly danh muc san pham.
-- Quan ly don hang.
-- Quan ly tai khoan nguoi dung.
-- Nhap san pham tu file CSV mo duoc bang Excel.
-- Xuat danh sach san pham ra file CSV mo duoc bang Excel.
-- Cau hinh phuong thuc thanh toan COD, chuyen khoan, VNPay sandbox va QR Demo.
+- Quản lý sản phẩm WooCommerce.
+- Quản lý danh mục sản phẩm.
+- Quản lý đơn hàng.
+- Quản lý tài khoản người dùng.
+- Nhập sản phẩm từ file CSV mở được bằng Excel.
+- Xuất danh sách sản phẩm ra file CSV mở được bằng Excel.
+- Cấu hình phương thức thanh toán COD, chuyển khoản, VNPay sandbox và QR Demo.
 
-### 6.3. Chuc nang tu lap trinh them
+### 6.3. Chức năng tự lập trình thêm
 
-Plugin tu viet:
+Plugin tự viết:
 
 ```text
 wp-content/plugins/lzon-project-tools/lzon-project-tools.php
 ```
 
-Chuc nang plugin:
+Chức năng plugin:
 
-- Xuat danh sach san pham ra file CSV UTF-8 BOM, mo duoc bang Microsoft Excel.
-- Nhap san pham tu file CSV.
-- Cap nhat san pham cu neu trung SKU.
-- Tao san pham moi neu SKU chua ton tai.
-- Tich hop cong thanh toan VNPay sandbox.
-- Tao cong thanh toan QR Demo de mo phong thanh toan online.
+- Xuất danh sách sản phẩm ra file CSV UTF-8 BOM, mở được bằng Microsoft Excel.
+- Nhập sản phẩm từ file CSV.
+- Cập nhật sản phẩm cũ nếu trùng SKU.
+- Tạo sản phẩm mới nếu SKU chưa tồn tại.
+- Tích hợp cổng thanh toán VNPay sandbox.
+- Tạo cổng thanh toán QR Demo để mô phỏng thanh toán online.
 
-Cot du lieu file nhap/xuat:
+Cột dữ liệu file nhập/xuất:
 
 ```text
 sku,name,regular_price,sale_price,stock_quantity,categories,short_description,description,image_url
 ```
 
-## 7. Cau truc thu muc quan trong
+## 7. Cấu trúc thư mục quan trọng
 
 ```text
 wp-content/
@@ -126,49 +126,49 @@ wp-content/
 README.md
 ```
 
-## 8. Huong dan cai dat
+## 8. Hướng dẫn cài đặt
 
-### 8.1. Yeu cau moi truong
+### 8.1. Yêu cầu môi trường
 
-- Cai dat XAMPP.
-- Bat Apache va MySQL trong XAMPP.
-- Co trinh duyet web.
-- Co file source code WordPress cua project.
-- Co file database `.sql` cua project.
+- Cài đặt XAMPP.
+- Bật Apache và MySQL trong XAMPP.
+- Có trình duyệt web.
+- Có file source code WordPress của project.
+- Có file database `.sql` của project.
 
-### 8.2. Cai source code
+### 8.2. Cài source code
 
-Copy source code vao thu muc:
+Copy source code vào thư mục:
 
 ```text
 C:\xampp\htdocs\LAI_NAM_SON
 ```
 
-### 8.3. Tao va import database
+### 8.3. Tạo và import database
 
-Mo phpMyAdmin:
+Mở phpMyAdmin:
 
 ```text
 http://localhost/phpmyadmin/
 ```
 
-Tao database:
+Tạo database:
 
 ```text
 website_ban_mo_hinh
 ```
 
-Import file database `.sql` cua project vao database vua tao.
+Import file database `.sql` của project vào database vừa tạo.
 
-### 8.4. Cau hinh wp-config.php
+### 8.4. Cấu hình wp-config.php
 
-Kiem tra file:
+Kiểm tra file:
 
 ```text
 C:\xampp\htdocs\LAI_NAM_SON\wp-config.php
 ```
 
-Cau hinh database local:
+Cấu hình database local:
 
 ```php
 define('DB_NAME', 'website_ban_mo_hinh');
@@ -177,9 +177,9 @@ define('DB_PASSWORD', '');
 define('DB_HOST', 'localhost');
 ```
 
-### 8.5. Cau hinh duong dan local
+### 8.5. Cấu hình đường dẫn local
 
-Neu import database tu may khac, chay SQL:
+Nếu import database từ máy khác, chạy SQL:
 
 ```sql
 UPDATE wp_options
@@ -187,67 +187,67 @@ SET option_value = 'http://localhost/LAI_NAM_SON'
 WHERE option_name IN ('siteurl', 'home');
 ```
 
-## 9. Huong dan chay project
+## 9. Hướng dẫn chạy project
 
-### 9.1. Chay tren localhost
+### 9.1. Chạy trên localhost
 
-1. Mo XAMPP.
-2. Bat Apache.
-3. Bat MySQL.
-4. Mo website:
+1. Mở XAMPP.
+2. Bật Apache.
+3. Bật MySQL.
+4. Mở website:
 
 ```text
 http://localhost/LAI_NAM_SON/
 ```
 
-5. Mo trang quan tri:
+5. Mở trang quản trị:
 
 ```text
 http://localhost/LAI_NAM_SON/wp-admin/
 ```
 
-### 9.2. Cac plugin can kich hoat
+### 9.2. Các plugin cần kích hoạt
 
-Trong WordPress Admin, vao:
+Trong WordPress Admin, vào:
 
 ```text
 Plugins > Installed Plugins
 ```
 
-Kich hoat cac plugin:
+Kích hoạt các plugin:
 
 - WooCommerce
 - Elementor
 - Classic Editor
 - Lzon Project Tools
 
-### 9.3. Cau hinh trang WooCommerce
+### 9.3. Cấu hình trang WooCommerce
 
-Neu trang gio hang, thanh toan hoac tai khoan hien sai noi dung, chay SQL:
+Nếu trang giỏ hàng, thanh toán hoặc tài khoản hiển thị sai nội dung, chạy SQL:
 
 ```sql
 UPDATE wp_posts
 SET post_content = '[woocommerce_cart]',
-    post_title = 'Gio hang'
+    post_title = 'Giỏ hàng'
 WHERE post_name IN ('cart', 'gio-hang')
   AND post_type = 'page';
 
 UPDATE wp_posts
 SET post_content = '[woocommerce_checkout]',
-    post_title = 'Thanh toan'
+    post_title = 'Thanh toán'
 WHERE post_name IN ('checkout', 'thanh-toan')
   AND post_type = 'page';
 
 UPDATE wp_posts
 SET post_content = '[woocommerce_my_account]',
-    post_title = 'Tai khoan'
+    post_title = 'Tài khoản'
 WHERE post_name IN ('my-account', 'tai-khoan')
   AND post_type = 'page';
 ```
 
-### 9.4. Tat che do Coming Soon cua WooCommerce
+### 9.4. Tắt chế độ Coming Soon của WooCommerce
 
-Neu website hien thong bao "Nhung dieu tuyet voi dang o phia truoc", chay SQL:
+Nếu website hiển thị thông báo "Những điều tuyệt vời đang ở phía trước", chạy SQL:
 
 ```sql
 UPDATE wp_options
@@ -258,7 +258,7 @@ WHERE option_name IN (
 );
 ```
 
-### 9.5. Bat dang ky tai khoan va hien o mat khau
+### 9.5. Bật đăng ký tài khoản và hiển thị ô mật khẩu
 
 ```sql
 UPDATE wp_options SET option_value = '1'
@@ -274,63 +274,63 @@ UPDATE wp_options SET option_value = 'yes'
 WHERE option_name = 'woocommerce_registration_generate_username';
 ```
 
-## 10. Huong dan su dung chuc nang chinh
+## 10. Hướng dẫn sử dụng chức năng chính
 
-### 10.1. Them san pham vao gio hang
+### 10.1. Thêm sản phẩm vào giỏ hàng
 
-1. Vao trang cua hang hoac trang danh muc san pham.
-2. Chon san pham.
-3. Bam them vao gio hang.
-4. Vao trang gio hang de kiem tra san pham.
+1. Vào trang cửa hàng hoặc trang danh mục sản phẩm.
+2. Chọn sản phẩm.
+3. Bấm thêm vào giỏ hàng.
+4. Vào trang giỏ hàng để kiểm tra sản phẩm.
 
-### 10.2. Dat hang
+### 10.2. Đặt hàng
 
-1. Vao gio hang.
-2. Bam tien hanh thanh toan.
-3. Nhap thong tin thanh toan.
-4. Chon phuong thuc thanh toan.
-5. Bam dat hang.
+1. Vào giỏ hàng.
+2. Bấm tiến hành thanh toán.
+3. Nhập thông tin thanh toán.
+4. Chọn phương thức thanh toán.
+5. Bấm đặt hàng.
 
-### 10.3. Nhap/xuat Excel-compatible
+### 10.3. Nhập/xuất Excel-compatible
 
-Duong dan:
+Đường dẫn:
 
 ```text
 WooCommerce > Lzon Excel
 ```
 
-Chuc nang:
+Chức năng:
 
-- Bam Download Excel CSV de xuat san pham.
-- Chon file CSV va bam Import products de nhap san pham.
+- Bấm Download Excel CSV để xuất sản phẩm.
+- Chọn file CSV và bấm Import products để nhập sản phẩm.
 
-### 10.4. Thanh toan VNPay sandbox
+### 10.4. Thanh toán VNPay sandbox
 
-Duong dan cau hinh:
+Đường dẫn cấu hình:
 
 ```text
 WooCommerce > Settings > Payments > VNPay Sandbox
 ```
 
-Can dien:
+Cần điền:
 
 - `vnp_TmnCode`
 - `vnp_HashSecret`
 - `Payment URL`: `https://sandbox.vnpayment.vn/paymentv2/vpcpay.html`
 
-### 10.5. Thanh toan QR Demo
+### 10.5. Thanh toán QR Demo
 
-Duong dan cau hinh:
+Đường dẫn cấu hình:
 
 ```text
 WooCommerce > Settings > Payments > QR Demo
 ```
 
-QR Demo chi dung de mo phong thanh toan, khong tru tien that.
+QR Demo chỉ dùng để mô phỏng thanh toán, không trừ tiền thật.
 
-## 11. Tai khoan demo
+## 11. Tài khoản demo
 
-### 11.1. Tai khoan quan tri
+### 11.1. Tài khoản quản trị
 
 ```text
 URL admin: http://localhost/LAI_NAM_SON/wp-admin/
@@ -338,83 +338,83 @@ Username: dien_tai_khoan_admin
 Password: dien_mat_khau_admin
 ```
 
-### 11.2. Tai khoan khach hang
+### 11.2. Tài khoản khách hàng
 
 ```text
-URL tai khoan: http://localhost/LAI_NAM_SON/my-account/
+URL tài khoản: http://localhost/LAI_NAM_SON/my-account/
 Username/Email: dien_email_khach_hang
 Password: dien_mat_khau_khach_hang
 ```
 
-> Luu y: Khong nen day mat khau that len GitHub public. Neu nop bai qua file nen co the dien tai khoan demo rieng.
+> Lưu ý: Không nên đẩy mật khẩu thật lên GitHub public. Nếu nộp bài qua file thì có thể điền tài khoản demo riêng.
 
-## 12. Hinh anh minh hoa he thong
+## 12. Hình ảnh minh họa hệ thống
 
-Co the dat anh chup man hinh vao thu muc:
+Có thể đặt ảnh chụp màn hình vào thư mục:
 
 ```text
 docs/images/
 ```
 
-Danh sach anh nen co:
+Danh sách ảnh nên có:
 
-| STT | Man hinh | File minh hoa |
+| STT | Màn hình | File minh họa |
 | --- | --- | --- |
-| 1 | Trang chu | `docs/images/trang-chu.png` |
-| 2 | Danh sach san pham | `docs/images/san-pham.png` |
-| 3 | Chi tiet san pham | `docs/images/chi-tiet-san-pham.png` |
-| 4 | Gio hang | `docs/images/gio-hang.png` |
-| 5 | Thanh toan | `docs/images/thanh-toan.png` |
-| 6 | Dang nhap / dang ky | `docs/images/tai-khoan.png` |
+| 1 | Trang chủ | `docs/images/trang-chu.png` |
+| 2 | Danh sách sản phẩm | `docs/images/san-pham.png` |
+| 3 | Chi tiết sản phẩm | `docs/images/chi-tiet-san-pham.png` |
+| 4 | Giỏ hàng | `docs/images/gio-hang.png` |
+| 5 | Thanh toán | `docs/images/thanh-toan.png` |
+| 6 | Đăng nhập / đăng ký | `docs/images/tai-khoan.png` |
 | 7 | Lzon Excel import/export | `docs/images/lzon-excel.png` |
 | 8 | VNPay sandbox | `docs/images/vnpay-sandbox.png` |
 | 9 | QR Demo | `docs/images/qr-demo.png` |
 
-Chen anh minh hoa trong README theo mau:
+Chèn ảnh minh họa trong README theo mẫu:
 
 ```md
-![Trang chu](docs/images/trang-chu.png)
-![Gio hang](docs/images/gio-hang.png)
-![Thanh toan](docs/images/thanh-toan.png)
+![Trang chủ](docs/images/trang-chu.png)
+![Giỏ hàng](docs/images/gio-hang.png)
+![Thanh toán](docs/images/thanh-toan.png)
 ```
 
 ## 13. Link video demo
 
 ```text
-Dien link video demo tai day
+Điền link video demo tại đây
 ```
 
-Vi du:
+Ví dụ:
 
 ```text
 https://youtu.be/your-video-demo
 ```
 
-## 14. Link online da deploy
+## 14. Link online đã deploy
 
-Website da deploy:
+Website đã deploy:
 
 ```text
 http://laison.fwh.is/
 ```
 
-Trang quan tri hosting:
+Trang quản trị hosting:
 
 ```text
 http://laison.fwh.is/wp-admin/
 ```
 
-## 15. Huong dan deploy hosting
+## 15. Hướng dẫn deploy hosting
 
 ### 15.1. Upload source
 
-Upload source WordPress len thu muc goc hosting:
+Upload source WordPress lên thư mục gốc hosting:
 
 ```text
 htdocs/
 ```
 
-Khong upload thua mot lop thu muc. Cau truc dung:
+Không upload thừa một lớp thư mục. Cấu trúc đúng:
 
 ```text
 htdocs/wp-admin
@@ -422,29 +422,29 @@ htdocs/wp-content
 htdocs/wp-includes
 ```
 
-### 15.2. Upload plugin tu viet
+### 15.2. Upload plugin tự viết
 
-Dam bao hosting co file:
+Đảm bảo hosting có file:
 
 ```text
 htdocs/wp-content/plugins/lzon-project-tools/lzon-project-tools.php
 ```
 
-Sau do vao WordPress Admin tren hosting va kich hoat plugin:
+Sau đó vào WordPress Admin trên hosting và kích hoạt plugin:
 
 ```text
 Plugins > Lzon Project Tools > Activate
 ```
 
-### 15.3. Cau hinh .htaccess hosting
+### 15.3. Cấu hình .htaccess hosting
 
-Dung noi dung trong file:
+Dùng nội dung trong file:
 
 ```text
 .htaccess-hosting.txt
 ```
 
-Noi dung:
+Nội dung:
 
 ```apache
 # BEGIN WordPress
@@ -460,9 +460,9 @@ RewriteRule . /index.php [L]
 # END WordPress
 ```
 
-### 15.4. Cau hinh URL hosting
+### 15.4. Cấu hình URL hosting
 
-Trong phpMyAdmin hosting, chay:
+Trong phpMyAdmin hosting, chạy:
 
 ```sql
 UPDATE wp_options
@@ -470,35 +470,17 @@ SET option_value = 'http://laison.fwh.is'
 WHERE option_name IN ('siteurl', 'home');
 ```
 
-## 16. Cac muc dap ung de cuong
+## 16. Các mục đáp ứng đề cương
 
-| Yeu cau trong de cuong | Trang thai |
+| Yêu cầu trong đề cương | Trạng thái |
 | --- | --- |
-| Cai dat va chay duoc ma nguon mo | Da dap ung |
-| Cau hinh website ban hang | Da dap ung |
-| Tuy bien giao dien/skin | Da dap ung |
-| Lap trinh chuc nang moi | Da dap ung |
-| Nhap/xuat file Excel | Da dap ung bang CSV mo duoc trong Excel |
-| Thanh toan online | Da dap ung o muc VNPay sandbox va QR Demo |
-| Dua len hosting that | Da dap ung neu website chay on dinh tren InfinityFree |
-| Bao cao do an | Da co, can cap nhat them anh va mo ta chuc nang moi |
+| Cài đặt và chạy được mã nguồn mở | Đã đáp ứng |
+| Cấu hình website bán hàng | Đã đáp ứng |
+| Tùy biến giao diện/skin | Đã đáp ứng |
+| Lập trình chức năng mới | Đã đáp ứng |
+| Nhập/xuất file Excel | Đã đáp ứng bằng CSV mở được trong Excel |
+| Thanh toán online | Đã đáp ứng ở mức VNPay sandbox và QR Demo |
+| Đưa lên hosting thật | Đã đáp ứng nếu website chạy ổn định trên InfinityFree |
+| Báo cáo đồ án | Đã có, cần cập nhật thêm ảnh và mô tả chức năng mới |
 
-## 17. Ghi chu khi nop bai
-
-Nen nop kem:
-
-- Source code WordPress.
-- File database `.sql`.
-- File bao cao.
-- File README.md.
-- Anh chup cac chuc nang chinh.
-- Link video demo.
-- Link website online da deploy.
-
-Khong dua cac thong tin bao mat len public:
-
-- Mat khau admin that.
-- Mat khau database hosting.
-- `vnp_HashSecret` that.
-- Tai khoan hosting.
 

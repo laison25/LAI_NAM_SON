@@ -350,17 +350,17 @@ Password: dien_mat_khau_khach_hang
 
 ## 12. Hình ảnh minh họa hệ thống
 
-Có thể đặt ảnh chụp màn hình vào thư mục:
+ ảnh chụp màn hình vào thư mục:
 
 ```text
 docs/images/
 ```
 
-Danh sách ảnh nên có:
+Danh sách ảnh :
 
 | STT | Màn hình | File minh họa |
 | --- | --- | --- |
-| 1 | Trang chủ | `docs/images/trang-chu.png` |
+| 1 | Trang chủ | `![Trang chủ website](docs/images/trang-chu.png)` |
 | 2 | Danh sách sản phẩm | `docs/images/san-pham.png` |
 | 3 | Chi tiết sản phẩm | `docs/images/chi-tiet-san-pham.png` |
 | 4 | Giỏ hàng | `docs/images/gio-hang.png` |
